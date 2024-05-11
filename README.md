@@ -21,5 +21,6 @@ Conclusão: Estou muito animado por compartilhar este dicionário com Vocês. É
 Links importantes: https://pib.socioambiental.org/pt/Povo:Yanomami
                    https://etnolinguistica.wdfiles.com/local--files/biblio%3Aemiri-1987-dicionario/Emiri_1987_DicYanomamePortugues.pdf
                    https://www.dicionariotupiguarani.com.br/yanomami/
+                   https://raw.githubusercontent.com/alefbatista1/Tradutor-YANOMAMI-PORTUGU-S/main/PALAVRAS (LISTA DE PALAVRAS PARA O TESTE DO BOT!)
 
                    Todos os links aqui incluidos foram usados de base para a construção do projeto!
